@@ -1,5 +1,7 @@
 # sipit-algorithm
 
+![screenshot](./screenshot.jpg)
+
 > Disclaimer :
 >
 > This implementation is for **educational and research purposes only**. The SIPIT algorithm is the intellectual property of its authors, and this repository does not claim any rights over the algorithm itself.
